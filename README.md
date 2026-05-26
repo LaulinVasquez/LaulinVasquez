@@ -84,14 +84,6 @@ Projects centered around processing and structuring data efficiently.
 
 ---
 
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contact
 - Email: laurin171125@gmail.com  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/laulin-v%C3%A1squez-5613b5230)  
