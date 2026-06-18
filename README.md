@@ -1,6 +1,6 @@
 # Hi, I'm Laulin Vasquez 👋
 
-### Software Developer | Computer Science Student | FullStack Developer
+### Software Developer | Software Engineering Student | FullStack Developer
 
 I enjoy building structured, efficient software systems and exploring how data, logic, and architecture come together. My focus is backend development, problem solving, and understanding how systems scale and behave.
 
