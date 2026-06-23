@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Laulin Vasquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-### Software Developer | Software Engineering Student | FullStack Developer
+<h3 align="center"> Software Developer | Software Engineering Student | FullStack Developer </h3>
 
 I enjoy building structured, efficient software systems and exploring how data, logic, and architecture come together. My focus is backend development, problem solving, and understanding how systems scale and behave.
 
