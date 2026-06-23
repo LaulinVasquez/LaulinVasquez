@@ -1,4 +1,4 @@
-# Hi, I'm Laulin Vasquez 👋
+<h1 align="center">Hi 👋, I'm Laulin Vasquez</h1>
 
 ### Software Developer | Software Engineering Student | FullStack Developer
 
