@@ -83,7 +83,6 @@ Projects centered around processing and structuring data efficiently.
 ## 📫 Contact
 - Email: laurin171125@gmail.com  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/laulin-v%C3%A1squez-5613b5230)  
-- GitHub: https://github.com/LaulinVasquez
 - Portfolio: https://laurin-portfolio.vercel.app/
 
 ---
