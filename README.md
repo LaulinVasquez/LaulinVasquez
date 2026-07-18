@@ -84,7 +84,7 @@ Projects centered around processing and structuring data efficiently.
 - Email: laurin171125@gmail.com  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/laulin-v%C3%A1squez-5613b5230)  
 - GitHub: https://github.com/LaulinVasquez
-- Resume: [https://laulinvasquez.github.io/wdd331-practice-site/resume.html](https://laulinvasquez.github.io/wdd331-practice-site/resume.html)
+- Portfolio: https://laurin-portfolio.vercel.app/
 
 ---
 
