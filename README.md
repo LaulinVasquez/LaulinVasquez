@@ -76,9 +76,6 @@ Projects centered around processing and structuring data efficiently.
 - Clean architecture design  
 
 --- 
-### GitHub Activity
-![Laulin's Stats](https://github-readme-stats.vercel.app/api?username=LaulinVasquez&show_icons=true&theme=radical)
----
 
 ## 📫 Contact
 - Email: laurin171125@gmail.com  
