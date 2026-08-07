@@ -1,87 +1,71 @@
-<h1 align="center">Hi, I'm Laulin Vasquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h1 align="center">
+  Hi, I'm Laurin Vasquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h3 align="center"> Software Developer | Software Engineering Student | FullStack Developer </h3>
+<h3 align="center">
+Software Engineering Student • Full-Stack Developer • Backend Enthusiast
+</h3>
 
-I enjoy building structured, efficient software systems and exploring how data, logic, and architecture come together. My focus is backend development, problem solving, and understanding how systems scale and behave.
+<p align="center">
+I build modern web applications with a passion for backend engineering, scalable systems, and clean user experiences.
+</p>
+
+<p align="center">
+  <a href="https://laurin-portfolio.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/laulin-v%C3%A1squez-5613b5230">LinkedIn</a> •
+  <a href="mailto:laurin171125@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Computer Science student focused on software engineering fundamentals  
-- 🧠 Strong interest in data structures and algorithmic problem solving  
-- ⚙️ Enjoy backend development and system design concepts  
-- 🔍 Always improving how I write, structure, and optimize code  
+
+- 🎓 B.S. Computer Science @ BYU–Idaho
+- 💻 Building full-stack applications with React, Next.js, Node.js & PostgreSQL
+- 🤖 Exploring AI Agents and modern developer tools
+- 🌱 Always learning and building projects that solve real problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Frameworks & Tools**
 
----
-
-### Core CS Skills
-- Data Structures (arrays, linked lists, stacks, queues, trees, graphs)
-- Algorithms (sorting, searching, recursion, complexity analysis)
-- Problem solving & debugging
-- Basic system design thinking
-
----
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-## 📦 Projects
+## 🌟 Featured Projects
 
-### 🧾 Orderly – Management System
-A structured order and customer management system.
-
-- Built CLI-based architecture
-- Focus on clean data modeling and organization
-- Designed for future expansion into GUI and web versions
+- 💰 **Smart Budget Pro** — Personal finance platform with authentication, budgeting, dashboards, and PostgreSQL.
+- ✅ **FlowDesk** — AI-powered productivity app built with Next.js and Supabase.
+- 🖥️ **Portfolio OS** — Interactive desktop-inspired portfolio built with React and Framer Motion.
+- 🌿 **Garden & Landscaping Pros** — Modern business website focused on lead generation and responsive design.
 
 ---
 
-### 📊 Data-Focused Applications
-Projects centered around processing and structuring data efficiently.
+## 📈 GitHub Stats
 
-- Working with APIs and structured datasets  
-- Focus on transformation, filtering, and analysis  
-- Emphasis on performance and clean logic  
-
----
-
-## 📚 Currently Learning
-- Advanced data structures (trees, graphs, heaps)
-- System design fundamentals
-- Distributed systems concepts (Elixir/Phoenix ecosystem)
-- Scalable backend architecture patterns
-- API design best practices
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ⚙️ Interests
-- Backend systems and APIs  
-- Data structures and algorithms  
-- Functional programming (Elixir)  
-- Performance optimization  
-- Clean architecture design  
-
---- 
-
-## 📫 Contact
-- Email: laurin171125@gmail.com  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/laulin-v%C3%A1squez-5613b5230)  
-- Portfolio: https://laurin-portfolio.vercel.app/
-
----
-
-⭐ Building strong fundamentals. Growing into scalable systems.
+<p align="center">
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+</p>
