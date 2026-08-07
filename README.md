@@ -58,12 +58,16 @@ I build modern web applications with a passion for backend engineering, scalable
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaulinVasquez&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaulinVasquez&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaulinVasquez&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaulinVasquez&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 <p align="center">
